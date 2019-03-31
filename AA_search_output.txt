@@ -1,0 +1,7 @@
+Filename	Count
+--------	---------
+seq1.txt	153
+seq2.txt	48
+seq3.txt	83
+seq4.txt	93
+seq5.txt	102
